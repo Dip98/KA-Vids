@@ -548,7 +548,7 @@ window.KA_AUDIO_CHUNKS[${index}] = "${base64}";
 <body>
 
     <h1>My Video</h1>
-    <h3>This video was exported with <a href = "" target = "_blank">KA Vids</a>.</h3>
+    <h3>This video was exported with <a href = "https://github.com/Dip98/KA-Vids" target = "_blank">KA Vids</a>.</h3>
 
     <canvas id="screen"></canvas>
 
